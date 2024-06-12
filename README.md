@@ -4,7 +4,7 @@
 
 <p><b>Gymate</b> provides a space for people to improve their physical fitness and overall health through regular exercise and physical activity.</p>
 
-<p>Credits for the design goes to <a href='https://www.radiustheme.com/'>RadiusTheme</a></p>
+<p>Credits for the design goes to <a href='https://www.linkedin.com/in/rohan-singh-47455623a/'>RohanSingh</a></p>
 
 👉 Live Demo: <a href='https://bzygymate.netlify.app/'>Gymate Demo</a>
 
