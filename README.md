@@ -6,7 +6,7 @@
 
 <p>Credits for the design goes to <a href='https://www.radiustheme.com/'>RadiusTheme</a></p>
 
-👉 Live Demo: <a href='https://gymate-stefvndev.vercel.app/'>Gymate Demo</a>
+👉 Live Demo: <a href='https://bzygymate.netlify.app/'>Gymate Demo</a>
 
 <h3>Build with:</h3>
 
